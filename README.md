@@ -6,7 +6,6 @@ series.plot()
 pyplot.show()
 ![Screenshot (8)](https://github.com/user-attachments/assets/63c106c6-211c-4e20-9d73-baaca0527d79)
 
-
 series.plot(style='-.')
 pyplot.show()
 ![Screenshot (9)](https://github.com/user-attachments/assets/7352efea-6dec-4728-a8b7-9f3a8a16bfe6)
