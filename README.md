@@ -12,4 +12,5 @@ pyplot.show()
 ![image](https://github.com/user-attachments/assets/1d31f29e-0079-411b-ac39-5886fd4be544)
 series.plot(kind='kde')
 pyplot.show() 
-![image](https://github.com/user-attachments/assets/af95caa9-baa5-46d4-9193-5bee77e08775)
+![Screenshot (11)](https://github.com/user-attachments/assets/f3ac3fd7-0336-4ac2-99ea-89fb501b0dff)
+
